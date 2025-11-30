@@ -1,5 +1,5 @@
 import { useParams, useNavigate } from "react-router-dom";
-import { projectData } from "@/data/projects";
+import { projectData } from "../data/projects";
 import { motion } from "framer-motion";
 import ReactMarkdown from "react-markdown";
 import { ExternalLink, ChevronLeft, ChevronRight, ArrowLeft } from "lucide-react";
