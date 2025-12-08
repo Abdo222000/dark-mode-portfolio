@@ -54,3 +54,8 @@ All colors MUST be HSL.
     @apply bg-background text-foreground;
   }
 }
+
+iframe{
+  padding-top:20px ;
+  height: 286px;
+}
